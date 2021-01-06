@@ -11,7 +11,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 
 | \#  | Title           | Difficulty | Language | Solution     |
 | --- | --------------- | ---------- | -------- | ------------ |
-| 1   | Two Sum         | Easy       | C++      | [Solution]() |
+| 1   | Two Sum         | Easy       | C++      | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/1.%20Add%20Two/README.md "Two Sum") |
 | 2   | Add Two Numbers | Medium     | C++      | [Solution]() |
 
 
