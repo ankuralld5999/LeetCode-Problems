@@ -26,7 +26,7 @@
 ## Solution 1.
 
 ```cpp
-// OJ: https://leetcode.com/problems/add-two-numbers/
+// Problem: https://leetcode.com/problems/add-two-numbers/
 // Author: github.com/ankuralld5999
 // Time: O(N)
 // Space: O(1)
