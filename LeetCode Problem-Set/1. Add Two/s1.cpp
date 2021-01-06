@@ -1,4 +1,4 @@
-## Solution 1.
+Solution 1.
 
 // Problem: https://leetcode.com/problems/two-sum/
 // Author: github.com/ankuralld5999
