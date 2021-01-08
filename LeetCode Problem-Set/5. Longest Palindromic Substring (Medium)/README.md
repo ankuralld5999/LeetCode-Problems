@@ -22,7 +22,7 @@
 ## Solution 1.
 
 ```cpp
-// OJ: https://leetcode.com/problems/longest-palindromic-substring/
+// Problem: https://leetcode.com/problems/longest-palindromic-substring/
 // Author: github.com/ankuralld5999
 // Time: O(N^2)
 // Space: O(1)
