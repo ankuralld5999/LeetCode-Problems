@@ -29,12 +29,11 @@ The median is (2 + 3)/2 = 2.5
 ## Solution 1.
 
 ```cpp
-// OJ: https://leetcode.com/problems/median-of-two-sorted-arrays/
+// Problem: https://leetcode.com/problems/median-of-two-sorted-arrays/
 // Author: github.com/ankuralld5999
 // Time: O(log(min(M, N)))
 // Space: O(1)
 // Ref: https://leetcode.com/problems/median-of-two-sorted-arrays/solution/
-// Ref: https://youtu.be/LPFhl65R7ww
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
