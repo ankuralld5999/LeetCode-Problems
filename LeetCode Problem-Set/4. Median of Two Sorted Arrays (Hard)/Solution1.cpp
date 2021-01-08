@@ -3,7 +3,6 @@
 // Time: O(log(min(M, N)))
 // Space: O(1)
 // Ref: https://leetcode.com/problems/median-of-two-sorted-arrays/solution/
-// Ref: https://youtu.be/LPFhl65R7ww
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
