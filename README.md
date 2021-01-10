@@ -17,8 +17,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 5 | Longest Palindromic Substring | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/5.%20Longest%20Palindromic%20Substring%20(Medium)/README.md "Longest Palindromic Substring")
 6 | ZigZag Conversion | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/6.%20ZigZag%20Conversion%20(Medium)/README.md "ZigZag Conversion")
 7 | Reverse Integer | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/7.%20Reverse%20Integer%20(Easy)/README.md "Reverse Integer")
-8 | String to Integer (atoi) | Medium | C++     | [Solution]()
-9 | Palindrome Number | Easy | C++     | [Solution]()
+8 | String to Integer (atoi) | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/8.%20String%20to%20Integer%20(atoi)%20(Medium)/README.md "String to Integer (atoi)")
+9 | Palindrome Number | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/9.%20Palindrome%20Number%20(Easy)/README.md "Regular Expression Matching")
 10 | Regular Expression Matching | Hard | C++     | [Solution]()
 
 
