@@ -21,8 +21,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 9 | Palindrome Number | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/9.%20Palindrome%20Number%20(Easy)/README.md "Palindrome Number")
 10 | Regular Expression Matching | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/10.%20Regular%20Expression%20Matching%20(Hard)/README.md "Regular Expression Matching")
 11 | Container With Most Water | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/11.%20Container%20With%20Most%20Water%20(Medium)/README.md "Container With Most Water")
-12 | Integer to Roman | Medium | C++     | [Solution]()
-13 | Roman to Integer | Easy | C++     | [Solution]()
+12 | Integer to Roman | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/12.%20Integer%20to%20Roman%20(Medium)/Solution1.cpp "Integer to Roman")
+13 | Roman to Integer | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/13.%20Roman%20to%20Integer%20(Easy)/Solution1.cpp "Roman to Integer")
 14 | Longest Common Prefix | Easy | C++     | [Solution]()
 15 | 3Sum | Medium | C++     | [Solution]()
 
