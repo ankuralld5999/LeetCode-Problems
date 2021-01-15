@@ -24,7 +24,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 12 | Integer to Roman | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/12.%20Integer%20to%20Roman%20(Medium)/Solution1.cpp "Integer to Roman")
 13 | Roman to Integer | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/13.%20Roman%20to%20Integer%20(Easy)/Solution1.cpp "Roman to Integer")
 14 | Longest Common Prefix | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/14.%20Longest%20Common%20Prefix%20(Easy) "Longest Common Prefix")
-15 | 3Sum | Medium | C++     | [Solution]()
+15 | 3Sum | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/15.%203Sum%20(Medium)/README.md "3Sum")
 
 
 
