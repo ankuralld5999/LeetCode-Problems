@@ -25,6 +25,11 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 13 | Roman to Integer | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/13.%20Roman%20to%20Integer%20(Easy)/Solution1.cpp "Roman to Integer")
 14 | Longest Common Prefix | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/14.%20Longest%20Common%20Prefix%20(Easy) "Longest Common Prefix")
 15 | 3Sum | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/15.%203Sum%20(Medium)/README.md "3Sum")
+16 | 3Sum Closest | Medium | C++     | [Solution]()
+17 | Letter Combinations of a Phone Number | Medium | C++     | [Solution]()
+18 | 4Sum | Medium | [Solution]()
+19 | Remove Nth Node From End of List | Medium | C++     | [Solution]()
+20 | Valid Parentheses | Easy | C++     | [Solution]()
 
 
 
