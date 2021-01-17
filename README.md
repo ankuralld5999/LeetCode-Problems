@@ -28,7 +28,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 16 | 3Sum Closest | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/16.%203Sum%20Closest%20(Medium)/README.md "3Sum Closest")
 17 | Letter Combinations of a Phone Number | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/17.%20Letter%20Combinations%20of%20a%20Phone%20Number%20(Medium)/README.md "Letter Combinations of a Phone Number")
 18 | 4Sum | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/18.%204Sum%20(Medium)/README.md "4Sum")
-19 | Remove Nth Node From End of List | Medium | C++     | [Solution]()
+19 | Remove Nth Node From End of List | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/19.%20Remove%20Nth%20Node%20From%20End%20of%20List%20(Medium)/Solution1.cpp "Remove Nth Node From End of List")
 20 | Valid Parentheses | Easy | C++     | [Solution]()
 
 
