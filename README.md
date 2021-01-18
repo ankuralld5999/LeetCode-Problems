@@ -33,7 +33,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 21 | Merge Two Sorted Lists | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/21.%20Merge%20Two%20Sorted%20Lists%20(Easy) "Merge Two Sorted Lists")
 22 | Generate Parentheses | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/22.%20Generate%20Parentheses%20(Medium) "Generate Parentheses")
 23 | Merge k Sorted Lists | Hard | C++     | [Solution]()
-24 | Swap Nodes in Pairs | Medium | C++     | [Solution]()
+24 | Swap Nodes in Pairs | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/24.%20Swap%20Nodes%20in%20Pairs%20(Medium) "Swap Nodes in Pairs")
 25 | Reverse Nodes in k-Group | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/25.%20Reverse%20Nodes%20in%20k-Group%20(Hard)/Solution1.cpp "Reverse Nodes in k-Group")
 26 | Remove Duplicates from Sorted Array | Easy | C++     | [Solution]()
 27 | Remove Element | Easy | C++     | [Solution]()
