@@ -34,7 +34,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 22 | Generate Parentheses | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/22.%20Generate%20Parentheses%20(Medium) "Generate Parentheses")
 23 | Merge k Sorted Lists | Hard | C++     | [Solution]()
 24 | Swap Nodes in Pairs | Medium | C++     | [Solution]()
-25 | Reverse Nodes in k-Group | Hard | C++     | [Solution]()
+25 | Reverse Nodes in k-Group | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/25.%20Reverse%20Nodes%20in%20k-Group%20(Hard)/Solution1.cpp "Reverse Nodes in k-Group")
 26 | Remove Duplicates from Sorted Array | Easy | C++     | [Solution]()
 27 | Remove Element | Easy | C++     | [Solution]()
 28 | Implement strStr() | Easy | C++     | [Solution]()
