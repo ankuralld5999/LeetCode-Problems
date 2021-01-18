@@ -31,7 +31,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 19 | Remove Nth Node From End of List | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/19.%20Remove%20Nth%20Node%20From%20End%20of%20List%20(Medium)/Solution1.cpp "Remove Nth Node From End of List")
 20 | Valid Parentheses | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/20.%20Valid%20Parentheses%20(Easy)/Solution1.cpp "Valid Parentheses")
 21 | Merge Two Sorted Lists | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/21.%20Merge%20Two%20Sorted%20Lists%20(Easy) "Merge Two Sorted Lists")
-22 | Generate Parentheses | Medium | C++     | [Solution]()
+22 | Generate Parentheses | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/22.%20Generate%20Parentheses%20(Medium) "Generate Parentheses")
 23 | Merge k Sorted Lists | Hard | C++     | [Solution]()
 24 | Swap Nodes in Pairs | Medium | C++     | [Solution]()
 25 | Reverse Nodes in k-Group | Hard | C++     | [Solution]()
