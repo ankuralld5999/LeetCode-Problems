@@ -8,10 +8,10 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 > <p>Please give a repo a ⭐ , if you like (it means a lot).</p>
 > <p>Thanks for support. 😊</p>
 
-| \#  | Title           | Difficulty | Language | Solution                                                                                                                                             |
-| --- | --------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Two Sum         | Easy       | C++      | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/1.%20Add%20Two/README.md "Two Sum")                   |
-| 2   | Add Two Numbers | Medium     | C++      | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/2.%20Add%20Two%20Numbers/README.md "Add Two Numbers") |
+\#  | Title           | Difficulty | Language | Solution                                                                                                                                             
+---|---|---|---|---
+1   | Two Sum         | Easy       | C++      | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/1.%20Add%20Two/README.md "Two Sum")                   |
+2   | Add Two Numbers | Medium     | C++      | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/2.%20Add%20Two%20Numbers/README.md "Add Two Numbers") |
 3 | Longest Substring Without Repeating Characters | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/3.%20Longest%20Substring%20Without%20Repeating%20Characters/README.md "Longest Substring Without Repeating Characters")
 4 | Median of Two Sorted Arrays | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/4.%20Median%20of%20Two%20Sorted%20Arrays%20(Hard)/README.md "Median of Two Sorted Arrays")
 5 | Longest Palindromic Substring | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/5.%20Longest%20Palindromic%20Substring%20(Medium)/README.md "Longest Palindromic Substring")
@@ -30,6 +30,17 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 18 | 4Sum | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/18.%204Sum%20(Medium)/README.md "4Sum")
 19 | Remove Nth Node From End of List | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/19.%20Remove%20Nth%20Node%20From%20End%20of%20List%20(Medium)/Solution1.cpp "Remove Nth Node From End of List")
 20 | Valid Parentheses | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/20.%20Valid%20Parentheses%20(Easy)/Solution1.cpp "Valid Parentheses")
+21 | Merge Two Sorted Lists | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/21.%20Merge%20Two%20Sorted%20Lists%20(Easy) "Merge Two Sorted Lists")
+22 | Generate Parentheses | Medium | C++     | [Solution]()
+23 | Merge k Sorted Lists | Hard | C++     | [Solution]()
+24 | Swap Nodes in Pairs | Medium | C++     | [Solution]()
+25 | Reverse Nodes in k-Group | Hard | C++     | [Solution]()
+26 | Remove Duplicates from Sorted Array | Easy | C++     | [Solution]()
+27 | Remove Element | Easy | C++     | [Solution]()
+28 | Implement strStr() | Easy | C++     | [Solution]()
+29 | Divide Two Integers | Medium | C++     | [Solution]()
+30 | Substring with Concatenation of All Words | Hard | C++     | [Solution]()
+
 
 
 
