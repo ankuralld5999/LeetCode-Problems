@@ -36,7 +36,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 24 | Swap Nodes in Pairs | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/24.%20Swap%20Nodes%20in%20Pairs%20(Medium) "Swap Nodes in Pairs")
 25 | Reverse Nodes in k-Group | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/25.%20Reverse%20Nodes%20in%20k-Group%20(Hard)/Solution1.cpp "Reverse Nodes in k-Group")
 26 | Remove Duplicates from Sorted Array | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20(Easy) "Remove Duplicates from Sorted Array")
-27 | Remove Element | Easy | C++     | [Solution]()
+27 | Remove Element | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/27.%20Remove%20Element%20(Easy)/Solution1.cpp "Remove Element")
 28 | Implement strStr() | Easy | C++     | [Solution]()
 29 | Divide Two Integers | Medium | C++     | [Solution]()
 30 | Substring with Concatenation of All Words | Hard | C++     | [Solution]()
