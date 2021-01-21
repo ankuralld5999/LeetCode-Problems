@@ -38,7 +38,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 26 | Remove Duplicates from Sorted Array | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20(Easy) "Remove Duplicates from Sorted Array")
 27 | Remove Element | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/27.%20Remove%20Element%20(Easy)/Solution1.cpp "Remove Element")
 28 | Implement strStr() | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/28.%20Implement%20strStr()%20(Easy) "Implement strStr()")
-29 | Divide Two Integers | Medium | C++     | [Solution]()
+29 | Divide Two Integers | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/29.%20Divide%20Two%20Integers%20(Medium) "Divide Two Integers")
 30 | Substring with Concatenation of All Words | Hard | C++     | [Solution]()
 
 
