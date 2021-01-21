@@ -1,35 +1,34 @@
 // Problem: https://leetcode.com/problems/next-permutation
 // Author: github.com/ankuralld5999
 // Time: O(N)
-// Space: O(N)
+// Space: O(1)
 class Solution {
-private:
-    int len, n;
-    string s;
-    bool rec(int i, unordered_map<string, int> &m, int cnt) {
-        if (cnt == n) return true;
-        int &v = m[s.substr(i, len)];
-        if (v) {
-            v--;
-            bool ret = rec(i + len, m, cnt + 1);
-            v++;
-            return ret;
-        }
-        return false;
-    }
 public:
-    vector<int> findSubstring(string s, vector<string>& words) {
-        if (words.empty()) return {};
-        this->s = s;
-        len = words[0].size();
-        n = words.size();
-        unordered_map<string, int> m;
-        for (string word : words) ++m[word];
-        int end = s.size() - n * len;
-        vector<int> v;
-        for (int i = 0; i <= end; ++i) {
-            if (rec(i, m, 0)) v.push_back(i);
+    void reverseVector(int i,int j,vector<int>& nums){
+        while(i<j){
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+            i++;
+            j--;
         }
-        return v;
     }
+    
+    void nextPermutation(vector<int>& nums) {
+        int k=nums.size()-2;
+        while(k>=0 && nums[k]>=nums[k+1]) k--;
+        if(k==-1){
+            reverseVector(0,nums.size()-1,nums);
+            return;
+        }
+        for(int i=nums.size()-1;i>k;i--)
+            if(nums[i]>nums[k]){
+                int temp=nums[i];
+                nums[i]=nums[k];
+                nums[k]=temp;
+                break;
+            }
+        reverseVector(k+1,nums.size()-1,nums);
+        return;
+    } 
 };
