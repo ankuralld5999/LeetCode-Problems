@@ -47,7 +47,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 35 | Search Insert Position | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/35.%20Search%20Insert%20Position%20(Easy) "Search Insert Position")
 36 | Valid Sudoku | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/36.%20Valid%20Sudoku%20(Medium)/Solution1.cpp "Valid Sudoku")
 37 | Sudoku Solver | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/37.%20Sudoku%20Solver%20(Hard)/Solution1.cpp "Sudoku Solver")
-38 | Count and Say | Easy | C++     | [Solution]()
+38 | Count and Say | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/38.%20Count%20and%20Say%20(Easy)/Solution1.cpp "Count and Say")
 39 | Combination Sum | Medium | C++     | [Solution]()
 40 | Combination Sum II | Medium | C++     | [Solution]()
 
