@@ -44,7 +44,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 32 | Longest Valid Parentheses | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/32.%20Longest%20Valid%20Parentheses%20(Hard) "Longest Valid Parentheses")
 33 | Search in Rotated Sorted Array | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/33.%20Search%20in%20Rotated%20Sorted%20Array%20(Medium) "Search in Rotated Sorted Array")
 34 | Find First and Last Position of Element in Sorted Array | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array%20(Medium)/Solution1.cpp "Find First and Last Position of Element in Sorted Array")
-35 | Search Insert Position | Easy | C++     | [Solution]()
+35 | Search Insert Position | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/35.%20Search%20Insert%20Position%20(Easy) "Search Insert Position")
 36 | Valid Sudoku | Medium | C++     | [Solution]()
 37 | Sudoku Solver | Hard | C++     | [Solution]()
 38 | Count and Say | Easy | C++     | [Solution]()
