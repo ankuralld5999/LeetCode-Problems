@@ -42,7 +42,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 30 | Substring with Concatenation of All Words | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/30.%20Substring%20with%20Concatenation%20of%20All%20Words%20(Hard)/Solution1.cpp "Substring with Concatenation of All Words")
 31 | Next Permutation | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/31.%20Next%20Permutation%20(Medium) "Next Permutation")
 32 | Longest Valid Parentheses | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/32.%20Longest%20Valid%20Parentheses%20(Hard) "Longest Valid Parentheses")
-33 | Search in Rotated Sorted Array | Medium | C++     | [Solution]()
+33 | Search in Rotated Sorted Array | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/33.%20Search%20in%20Rotated%20Sorted%20Array%20(Medium) "Search in Rotated Sorted Array")
 34 | Find First and Last Position of Element in Sorted Array | Medium | C++     | [Solution]()
 35 | Search Insert Position | Easy | C++     | [Solution]()
 36 | Valid Sudoku | Medium | C++     | [Solution]()
