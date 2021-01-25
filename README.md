@@ -49,7 +49,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 37 | Sudoku Solver | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/37.%20Sudoku%20Solver%20(Hard)/Solution1.cpp "Sudoku Solver")
 38 | Count and Say | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/38.%20Count%20and%20Say%20(Easy)/Solution1.cpp "Count and Say")
 39 | Combination Sum | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/39.%20Combination%20Sum%20(Medium) "Combination Sum")
-40 | Combination Sum II | Medium | C++     | [Solution]()
+40 | Combination Sum II | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/40.%20Combination%20Sum%20II%20(Medium) "Combination Sum II")
 
 
 
