@@ -50,6 +50,16 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 38 | Count and Say | Easy | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/38.%20Count%20and%20Say%20(Easy)/Solution1.cpp "Count and Say")
 39 | Combination Sum | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/39.%20Combination%20Sum%20(Medium) "Combination Sum")
 40 | Combination Sum II | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/40.%20Combination%20Sum%20II%20(Medium) "Combination Sum II")
+41 | First Missing Positive | Hard | C++     | [Solution]()
+42 | Trapping Rain Water | Hard | C++     | [Solution]()
+43 | Multiply Strings | Medium | C++     | [Solution]()
+44 | Wildcard Matching | Hard | C++     | [Solution]()
+45 | Jump Game II | Hard | C++     | [Solution]()
+46 | Permutations | Medium | C++     | [Solution]()
+47 | Permutations II | Medium | C++     | [Solution]()
+48 | Rotate Image | Medium | C++     | [Solution]()
+49 | Group Anagrams | Medium | C++     | [Solution]()
+50 | Pow(x, n) | Medium | C++     | [Solution]()
 
 
 
