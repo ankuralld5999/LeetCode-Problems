@@ -55,7 +55,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 43 | Multiply Strings | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/43.%20Multiply%20Strings%20(Medium)/Solution1.cpp "Multiply Strings")
 44 | Wildcard Matching | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/44.%20Wildcard%20Matching%20(Hard) "Wildcard Matching")
 45 | Jump Game II | Hard | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/45.%20Jump%20Game%20II%20(Hard) "Jump Game II")
-46 | Permutations | Medium | C++     | [Solution]()
+46 | Permutations | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/46.%20Permutations%20(Medium) "Permutations")
 47 | Permutations II | Medium | C++     | [Solution]()
 48 | Rotate Image | Medium | C++     | [Solution]()
 49 | Group Anagrams | Medium | C++     | [Solution]()
