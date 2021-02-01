@@ -1,4 +1,4 @@
-// Problem: https://leetcode.com/problems/n-queens-ii/submissions/
+// Problem: https://leetcode.com/problems/n-queens-ii/
 // Author: https://github.com/ankuralld5999
 class Solution {
 private:
