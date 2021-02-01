@@ -60,7 +60,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 48 | Rotate Image | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/48.%20Rotate%20Image%20(Medium)/Solution1.cpp "Rotate Image")
 49 | Group Anagrams | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/49.%20Group%20Anagrams%20(Medium) "Group Anagrams")
 50 | Pow(x, n) | Medium | C++     | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/50.%20Pow(x,%20n)%20(Medium) "Pow(x, n)")
-
+51 | N-Queens | Hard | C++    | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/51.%20N-Queens%20(Hard)/Solution1.cpp "N-Queens")
 
 
 
