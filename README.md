@@ -64,6 +64,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 52 | N-Queens II | Hard | C++    | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/52.%20N-Queens%20II%20(Hard)/Solution1.cpp "N-Queens II")
 53 | Maximum Subarray | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/53.%20Maximum%20Subarray%20(Easy) "Maximum Subarray")
 54 | Spiral Matrix | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/54.%20Spiral%20Matrix%20(Medium) "Spiral Matrix")
+55 | Jump Game | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/55.%20Jump%20Game%20(Medium) "Jump Game")
 
 
 
