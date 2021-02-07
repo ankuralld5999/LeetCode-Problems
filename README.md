@@ -69,6 +69,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 57 | Insert Interval | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/57.%20Insert%20Interval%20(Medium) "Insert Interval")
 58 | Length of Last Word | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/58.%20Length%20of%20Last%20Word%20(Easy) "Length of Last Word")
 59 | Spiral Matrix II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/59.%20Spiral%20Matrix%20II%20(Medium) "Spiral Matrix II")
+60 | Permutation Sequence | Hard| C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/60.%20Permutation%20Sequence%20(Hard) "Permutation Sequence")
 
 
 
