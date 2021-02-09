@@ -73,6 +73,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 61 | Rotate List | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/61.%20Rotate%20List%20(Medium) "Rotate List")
 62 | Unique Paths | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/62.%20Unique%20Paths%20(Medium) "Unique Paths")
 63 | Unique Paths II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/63.%20Unique%20Paths%20II%20(Medium) "Unique Paths II")
+64 | Minimum Path Sum | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/64.%20Minimum%20Path%20Sum%20(Medium) "Minimum Path Sum")
 
 
 
