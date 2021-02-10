@@ -75,6 +75,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 63 | Unique Paths II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/63.%20Unique%20Paths%20II%20(Medium) "Unique Paths II")
 64 | Minimum Path Sum | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/64.%20Minimum%20Path%20Sum%20(Medium) "Minimum Path Sum")
 65 | Valid Number | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/65.%20Valid%20Number%20(Hard) "Valid Number")
+66 | Plus One | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/66.%20Plus%20One%20(Easy) "Plus One")
 
 
 
