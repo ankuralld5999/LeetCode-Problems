@@ -77,6 +77,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 65 | Valid Number | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/65.%20Valid%20Number%20(Hard) "Valid Number")
 66 | Plus One | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/66.%20Plus%20One%20(Easy) "Plus One")
 67 | Add Binary | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/67.%20Add%20Binary%20(Easy) "Add Binary")
+68 | Text Justification | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/68.%20Text%20Justification%20(Hard)/Solution1.cpp "Text Justification")
 
 
 
