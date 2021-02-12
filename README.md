@@ -78,6 +78,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 66 | Plus One | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/66.%20Plus%20One%20(Easy) "Plus One")
 67 | Add Binary | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/67.%20Add%20Binary%20(Easy) "Add Binary")
 68 | Text Justification | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/68.%20Text%20Justification%20(Hard)/Solution1.cpp "Text Justification")
+69 | Sqrt(x) | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/69.%20Sqrt(x)%20(Easy) "Sqrt(x)")
+
 
 
 
