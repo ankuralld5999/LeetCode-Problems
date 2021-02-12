@@ -12,7 +12,7 @@
 <p><strong>Example 2:</strong></p>
 
 <pre><strong>Input:</strong> x = 8
-<strong>Output:</strong> 2</pre>
+<strong>Output:</strong> 2
 <strong>Explanation:</strong> The square root of 8 is 2.82842..., and since the decimal part is truncated, 2 is returned.</pre>
 
 
