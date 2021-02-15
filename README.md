@@ -81,6 +81,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 69 | Sqrt(x) | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/69.%20Sqrt(x)%20(Easy) "Sqrt(x)")
 70 | Climbing Stairs | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/70.%20Climbing%20Stairs%20(Easy) "Climbing Stairs")
 71 | Simplify Path | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/71.%20Simplify%20Path%20(Medium)/Solution1.cpp "Simplify Path")
+72 | Edit Distance | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/72.%20Edit%20Distance%20(Hard) "Edit Distance")
 
 
 
