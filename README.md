@@ -83,6 +83,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 71 | Simplify Path | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/71.%20Simplify%20Path%20(Medium)/Solution1.cpp "Simplify Path")
 72 | Edit Distance | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/72.%20Edit%20Distance%20(Hard) "Edit Distance")
 73 | Set Matrix Zeroes | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/73.%20Set%20Matrix%20Zeroes%20(Medium)/Solution1.cpp "Set Matrix Zeroes")
+74 | Search a 2D Matrix | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/74.%20Search%20a%202D%20Matrix%20(Medium) "Search a 2D Matrix")
+
 
 
 
