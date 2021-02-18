@@ -86,6 +86,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 74 | Search a 2D Matrix | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/74.%20Search%20a%202D%20Matrix%20(Medium) "Search a 2D Matrix")
 75 | Sort Colors | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/75.%20Sort%20Colors%20(Medium) "Sort Colors")
 76 | Minimum Window Substring | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/76.%20Minimum%20Window%20Substring%20(Hard) "Minimum Window Substring")
+77 | Combinations | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/77.%20Combinations%20(Medium) "Combinations")
 
 
 
