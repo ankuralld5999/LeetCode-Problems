@@ -88,6 +88,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 76 | Minimum Window Substring | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/76.%20Minimum%20Window%20Substring%20(Hard) "Minimum Window Substring")
 77 | Combinations | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/77.%20Combinations%20(Medium) "Combinations")
 78 | Subsets | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/78.%20Subsets%20(Medium) "Subsets")
+79 | Word Search | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/79.%20Word%20Search%20(Medium) "Word Search")
 
 
 
