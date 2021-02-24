@@ -91,6 +91,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 79 | Word Search | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/79.%20Word%20Search%20(Medium) "Word Search")
 80 | Remove Duplicates from Sorted Array II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20(Medium) "Remove Duplicates from Sorted Array II")
 81 | Search in Rotated Sorted Array II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/81.%20Search%20in%20Rotated%20Sorted%20Array%20II%20(Medium) "Search in Rotated Sorted Array II")
+82 | Remove Duplicates from Sorted List II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II%20(Medium) "Remove Duplicates from Sorted List II")
 
 
 
