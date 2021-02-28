@@ -93,6 +93,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 81 | Search in Rotated Sorted Array II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/81.%20Search%20in%20Rotated%20Sorted%20Array%20II%20(Medium) "Search in Rotated Sorted Array II")
 82 | Remove Duplicates from Sorted List II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II%20(Medium) "Remove Duplicates from Sorted List II")
 83 | Remove Duplicates from Sorted List | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/83.%20Remove%20Duplicates%20from%20Sorted%20List%20(Easy)/Solution1.cpp "Remove Duplicates from Sorted List")
+84 | Largest Rectangle in Histogram | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/84.%20Largest%20Rectangle%20in%20Histogram%20(Hard) "Largest Rectangle in Histogram")
 
 
 
