@@ -28,3 +28,32 @@ public:
         return ans;
     }
 };
+
+
+// OR
+
+class Solution {
+public:
+    int largestRectangleArea(vector<int>& A) {
+        A.insert(A.begin(), 0);
+        A.push_back(0);
+        int N = A.size(), ans = 0;
+        vector<int> left(N), s;
+        for (int i = N - 1; i >= 0; --i) {
+            while (s.size() && A[s.back()] > A[i]) {
+                left[s.back()] = i;
+                s.pop_back();
+            }
+            s.push_back(i);
+        }
+        s.clear();
+        for (int i = 0; i < N; ++i) {
+            while (s.size() && A[s.back()] > A[i]) {
+                ans = max(ans, (i - left[s.back()] - 1) * A[s.back()]);
+                s.pop_back();
+            }
+            s.push_back(i);
+        }
+        return ans;
+    }
+};
