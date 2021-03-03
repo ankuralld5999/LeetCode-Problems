@@ -96,6 +96,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 84 | Largest Rectangle in Histogram | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/84.%20Largest%20Rectangle%20in%20Histogram%20(Hard) "Largest Rectangle in Histogram")
 85 | Maximal Rectangle | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/85.%20Maximal%20Rectangle%20(Hard) "Maximal Rectangle")
 86 | Partition List | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/86.%20Partition%20List%20(Medium) "Partition List")
+87 | Scramble String | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/87.%20Scramble%20String%20(Hard) "Scramble String")
 
 
 
