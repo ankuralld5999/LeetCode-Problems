@@ -97,7 +97,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 85 | Maximal Rectangle | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/85.%20Maximal%20Rectangle%20(Hard) "Maximal Rectangle")
 86 | Partition List | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/86.%20Partition%20List%20(Medium) "Partition List")
 87 | Scramble String | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/87.%20Scramble%20String%20(Hard) "Scramble String")
-
+88 | Merge Sorted Array | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/88.%20Merge%20Sorted%20Array%20(Easy)/Solution1.cpp "Merge Sorted Array")
 
 
 
