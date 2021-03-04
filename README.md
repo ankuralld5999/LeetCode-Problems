@@ -98,6 +98,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 86 | Partition List | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/86.%20Partition%20List%20(Medium) "Partition List")
 87 | Scramble String | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/87.%20Scramble%20String%20(Hard) "Scramble String")
 88 | Merge Sorted Array | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set/88.%20Merge%20Sorted%20Array%20(Easy)/Solution1.cpp "Merge Sorted Array")
+89 | Gray Code | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/89.%20Gray%20Code%20(Medium) "Gray Code")
+90 | Subsets II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/90.%20Subsets%20II%20(Medium) "Subsets II")
 
 
 
