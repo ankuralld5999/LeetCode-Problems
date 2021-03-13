@@ -105,6 +105,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 93 | Restore IP Addresses | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/93.%20Restore%20IP%20Addresses%20(Medium) "Restore IP Addresses")
 94 | Binary Tree Inorder Traversal | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/94.%20Binary%20Tree%20Inorder%20Traversal%20(Medium) "Binary Tree Inorder Traversal")
 95 | Unique Binary Search Trees II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/95.%20Unique%20Binary%20Search%20Trees%20II%20(Medium) "Unique Binary Search Trees II")
+96 | Unique Binary Search Trees | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/96.%20Unique%20Binary%20Search%20Trees%20(Medium) "Unique Binary Search Trees")
 
 
 
