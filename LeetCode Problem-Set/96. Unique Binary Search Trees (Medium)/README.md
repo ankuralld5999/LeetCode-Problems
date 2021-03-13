@@ -75,11 +75,8 @@ public:
 };
 ```
 
-## Solution 2. Catalan Number
+## Solution 3. Catalan Number
 
-$$
-C_n = \dfrac{1}{n+1}{2n \choose n} = \dfrac{(2n)!}{(n+1)!n!}=\prod_{k=2}^{n}\dfrac{n+k}{k}\quad \text{for } n \ge 0
-$$
 
 ```cpp
 // Problem: https://leetcode.com/problems/unique-binary-search-trees
