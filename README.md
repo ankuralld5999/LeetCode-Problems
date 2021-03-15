@@ -106,8 +106,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 94 | Binary Tree Inorder Traversal | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/94.%20Binary%20Tree%20Inorder%20Traversal%20(Medium) "Binary Tree Inorder Traversal")
 95 | Unique Binary Search Trees II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/95.%20Unique%20Binary%20Search%20Trees%20II%20(Medium) "Unique Binary Search Trees II")
 96 | Unique Binary Search Trees | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/96.%20Unique%20Binary%20Search%20Trees%20(Medium) "Unique Binary Search Trees")
-97 | Interleaving String | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/97.%20Interleaving%20String%20(Hard)) "Interleaving String")
-
+97 | Interleaving String | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/97.%20Interleaving%20String%20(Hard) "Interleaving String")
+98 | Validate Binary Search Tree | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/98.%20Validate%20Binary%20Search%20Tree%20(Medium) "Validate Binary Search Tree")
 
 
 
