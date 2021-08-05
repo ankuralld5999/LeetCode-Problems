@@ -44,7 +44,7 @@
 ## Solution 1.
 
 ```cpp
-// OJ: https://leetcode.com/problems/same-tree/
+// Problem: https://leetcode.com/problems/same-tree/
 // Author: github.com/ankuralld5999
 // Time: O(N)
 // Space: O(H)
@@ -59,7 +59,7 @@ public:
 ## Solution 2.
 
 ```cpp
-// OJ: https://leetcode.com/problems/same-tree/
+// Problem: https://leetcode.com/problems/same-tree/
 // Author: github.com/ankuralld5999
 // Time: O(N)
 // Space: O(H)
