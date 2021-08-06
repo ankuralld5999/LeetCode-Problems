@@ -110,7 +110,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 98 | Validate Binary Search Tree | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/98.%20Validate%20Binary%20Search%20Tree%20(Medium) "Validate Binary Search Tree")
 99 | Recover Binary Search Tree | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set/99.%20Recover%20Binary%20Search%20Tree%20(Hard) "Recover Binary Search Tree")
 100 | Same Tree | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/100.%20Same%20Tree%20(Easy) "Same Tree")
-
+101 | Symmetric Tree | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/101.%20Symmetric%20Tree%20(Easy) "Symmetric Tree")
 
 
 # License
