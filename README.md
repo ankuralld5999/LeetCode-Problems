@@ -121,6 +121,8 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 109 | Convert Sorted List to Binary Search Tree | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree%20(Medium) "Convert Sorted List to Binary Search Tree")
 110 | Balanced Binary Tree | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/110.%20Balanced%20Binary%20Tree%20(Easy) "Balanced Binary Tree")
 111 | Minimum Depth of Binary Tree | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/111.%20Minimum%20Depth%20of%20Binary%20Tree%20(Easy) "Minimum Depth of Binary Tree")
+112 | Path Sum | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set%20(100-999)/112.%20Path%20Sum%20(Easy)/Solution1.cpp "Path Sum")
+
 
 
 # License
