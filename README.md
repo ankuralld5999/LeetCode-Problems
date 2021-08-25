@@ -128,7 +128,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 116 | Populating Next Right Pointers in Each Node | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20(Medium) "Populating Next Right Pointers in Each Node")
 117 | Populating Next Right Pointers in Each Node II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II%20(Medium) "Populating Next Right Pointers in Each Node II")
 118 | Pascal's Triangle | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/118.%20Pascal's%20Triangle%20(Easy) "Pascal's Triangle")
-
+119 | Pascal's Triangle II | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/119.%20Pascal's%20Triangle%20II%20(Easy) "Pascal's Triangle II")
 
 
 
