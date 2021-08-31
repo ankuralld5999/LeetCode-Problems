@@ -137,7 +137,7 @@ My C++ code of LeetCode Problem-Set Series (from beginning).
 125 | Valid Palindrome | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/125.%20Valid%20Palindrome%20(Easy) "Valid Palindrome")
 126 | Word Ladder II | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/126.%20Word%20Ladder%20II%20(Hard) "Word Ladder II")
 127 | Word Ladder | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/127.%20Word%20Ladder%20(Hard) "Word Ladder")
-
+128 | Longest Consecutive Sequence | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/128.%20Longest%20Consecutive%20Sequence%20(Hard) "Longest Consecutive Sequence")
 
 
 
