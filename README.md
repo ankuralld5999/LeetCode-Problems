@@ -2,7 +2,7 @@
 
 **Author:** [github.com/ankuralld5999](https://github.com/ankuralld5999 "Ankur Singh")
 
-My C++ code of LeetCode Problem-Set Series (from beginning).
+My C++ code of LeetCode Problem-Set Series (from starting).
 
 > <p>Before checking solution you try to solve it by yourself (atleast once).👍</p>
 > <p>Please give a repo a ⭐ , if you like (it means a lot).</p>
