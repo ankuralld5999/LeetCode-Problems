@@ -138,7 +138,7 @@ My C++ code of LeetCode Problem-Set Series (from starting).
 126 | Word Ladder II | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/126.%20Word%20Ladder%20II%20(Hard) "Word Ladder II")
 127 | Word Ladder | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/127.%20Word%20Ladder%20(Hard) "Word Ladder")
 128 | Longest Consecutive Sequence | Hard | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/128.%20Longest%20Consecutive%20Sequence%20(Hard) "Longest Consecutive Sequence")
-12 | Sum Root to Leaf Numbers | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/129.%20Sum%20Root%20to%20Leaf%20Numbers%20(Medium) "Sum Root to Leaf Numbers")
+129 | Sum Root to Leaf Numbers | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/129.%20Sum%20Root%20to%20Leaf%20Numbers%20(Medium) "Sum Root to Leaf Numbers")
 
 
 
