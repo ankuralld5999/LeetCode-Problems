@@ -145,7 +145,7 @@ My C++ code of LeetCode Problem-Set Series (from starting).
 133 | Clone Graph | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/133.%20Clone%20Graph%20(Medium) "Clone Graph")
 134 | Gas Station | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/134.%20Gas%20Station%20(Medium) "Gas Station")
 135 | Candy | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/blob/main/LeetCode%20Problem-Set%20(100-999)/135.%20Candy%20(Hard)/Solution1.cpp "Candy")
-
+136 | Single Number | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/136.%20Single%20Number%20(Easy) "Single Number")
 
 
 
