@@ -148,6 +148,7 @@ My C++ code of LeetCode Problem-Set Series (from starting).
 136 | Single Number | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/136.%20Single%20Number%20(Easy) "Single Number")
 137 | Single Number II | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/137.%20Single%20Number%20II%20(Medium) "Single Number II")
 138 | Copy List with Random Pointer | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/138.%20Copy%20List%20with%20Random%20Pointer%20(Medium) "Copy List with Random Pointer")
+139 | Word Break | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/139.%20Word%20Break%20(Medium) "Word Break")
 
 
 
