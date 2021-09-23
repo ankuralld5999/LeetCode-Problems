@@ -155,7 +155,7 @@ My C++ code of LeetCode Problem-Set Series (from starting).
 143 | Reorder List | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/143.%20Reorder%20List%20(Medium) "Reorder List")
 144 | Binary Tree Preorder Traversal | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/144.%20Binary%20Tree%20Preorder%20Traversal%20(Easy) "Binary Tree Preorder Traversal")
 145 | Binary Tree Postorder Traversal | Easy | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/145.%20Binary%20Tree%20Postorder%20Traversal%20(Easy) "Binary Tree Postorder Traversal")
-
+146 | LRU Cache | Medium | C++   | [Solution](https://github.com/ankuralld5999/LeetCode-Problems/tree/main/LeetCode%20Problem-Set%20(100-999)/146.%20LRU%20Cache%20(Medium) "LRU Cache")
 
 
 
